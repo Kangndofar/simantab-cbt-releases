@@ -1,9 +1,9 @@
-============================================================================
+
 🕊️ PETUNJUK INSTALASI WEB — SIMANTAB CBT v1.0.8
-============================================================================
+
 Aplikasi CBT Mandiri Ramah Madrasah & Sekolah
 Wakaf Pendidikan dari Kang Ndofar (MA Nahdlatuth Thalabah, Kesilir - Jember)
-============================================================================
+
 
 Terima kasih telah menggunakan SIMANTAB CBT!
 Aplikasi ini telah dilengkapi dengan Web Installer Wizard otomatis 5 langkah
